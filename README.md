@@ -3,7 +3,7 @@
 This project fine-tunes a BERT model for sentiment classification using the IMDB dataset and deploys it using Hugging Face Spaces.
 
 ## 🚀 Live Demo
-https://huggingface.co/spaces/YOUR_USERNAME/bert-sentiment-app
+https://huggingface.co/spaces/shc17/bert-sentiment-app
 
 ## 🧠 Tech Stack
 - Python
